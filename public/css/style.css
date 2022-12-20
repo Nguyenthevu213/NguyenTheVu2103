@@ -1,0 +1,280 @@
+.nav-item{
+   margin-right: 10px;
+   padding-right: 20px;
+}
+.logo{
+    padding-left: 250px;
+    margin-bottom: 5px;
+}
+.haha2{
+   /* background: #fff;
+    width: 18%;
+    height: 33px;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: blue;
+    border-radius: 8PX;
+    display: inline-block;
+    text-decoration: none */
+    background-color: blue;
+    display: inline-block;
+    border: 1px solid blue ;
+    border-radius: 8px;
+    color:#fff;
+    font-size: 1rem;
+    text-decoration: none
+}
+.gachchan{
+    text-decoration: none
+}
+.haha3{
+  display: inline-block;
+  border: 1px solid blue ;
+  border-radius: 8px;
+  color:blue;
+  text-decoration: none
+  
+}
+.haha3:hover{
+background:blue;
+color: #fff;
+}
+.tenlua{
+    max-width: 70%;
+}
+.khoangcach{
+    margin-top: 250px;
+}
+ .hinh6{
+    border: 1px solid grey;
+    margin-top: 140px;
+    height: 80px;
+   text-align: center;
+}  
+
+.howiswork{
+    text-align: center;
+    padding-top: 90px;
+
+}
+.chustart{
+    text-align: center;
+    color: grey;
+
+}
+.website{
+    margin-top: 100px;
+    padding-left: 50px;
+}
+
+.chuweb{
+    font-size: 30px;
+
+}
+.more{
+    
+    width: 20%;
+    text-align: center;
+    color:blue; 
+    /* color: inherit; */
+    /* text-decoration: inherit;
+    color: rgb(79 70 229 / var(--tw-text-opacity))!important; */
+
+}
+.hinhweb{
+    max-width: 75%;
+}
+.chudevelopment{
+    margin-top: 30px;
+    
+}
+.chunho{
+    color: blue;
+}
+
+.alldevelopment{
+    text-align: center;
+    border: 1px solid grey;
+    width: 60%;
+    height: auto;
+    
+}
+.development{
+   padding-left: 20%;
+   border: 1px solid grey;
+}
+.enter{
+    color: #fff;
+    background: blue;
+    border: 1px solid blue;
+    text-align: center;
+    width: 200px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.allchuamazing{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.chuAmazing{
+    color: blue;
+}
+.hinhnguoi{
+    max-width: 50%;
+   margin-left: 150px;
+}
+.hinhnguoi2{
+    max-width: 50%;
+    margin-left: 150px;
+}
+.chunow{
+    background: blue;
+    color: #fff;
+    border-radius: 10px ;
+    width: 200px;
+    border: 1px solid blue;
+    text-align: center;
+    
+}
+.chungoisao{
+    margin-left: 25%;
+    width: 80%;
+    
+
+}
+.Professional{
+    width: 70%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+.get{
+    background: blue;
+    color: #fff;
+    display: inline-block;
+    border-width: 1px;
+    padding: 0.5rem 1.25rem;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 600;
+    letter-spacing: .025em;
+}
+.rate{
+    font-size: 2em;
+    margin-top: 20%;
+}
+.haha{
+    color: grey;
+}
+
+.check{
+    color:  blue;
+    display: inline-block;
+}
+.chamhoi{
+    color: blue;
+
+}
+.howour{
+    display: inline-block;
+
+}
+.fa-regular {
+    color: blue;
+}
+.have{
+    text-align: center;
+}
+.havequestion{
+    margin-top: 100px;
+    
+}
+.contact{
+    display: inline-block;
+}
+.mau{
+    color: gray;
+}
+.khung{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: blue;
+    border-width: 1px;
+    color: #fff;
+    text-align: center;
+    width: 150px;
+    margin-left: 45%;
+    margin-top: 3%;
+    vertical-align: middle;
+    height: 13%;
+}
+.footer{
+    margin-top: 7%;
+    height: 50%;
+    
+}
+.footer2{
+    --tw-bg-opacity: 1!important;
+    background-color: rgb(25 33 50 / var(--tw-bg-opacity))!important; 
+    --tw-text-opacity: 1!important;
+    color: rgb(229 231 235 / var(--tw-text-opacity))!important;
+    height: 10%; 
+    
+}
+.techwind{
+    margin-top: 5%;
+}
+.baotech{
+    margin-left: 40%;
+}
+.uil-shopping-cart:before {
+    content: '\e889'; 
+}
+.hinhnho{
+    padding: 0.25rem 5.5rem;
+    font-size: .500rem;
+    border-radius: 0.2rem;
+    overflow:hidden
+}
+ .fas {
+    font-weight: 900;
+    color: white;
+    --tw-bg-opacity: 1!important;
+    background-color: rgb(25 33 50 / var(--tw-bg-opacity))!important; 
+}
+
+.elementor-icon{
+    padding-left: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+.fa-regular{
+    color: #fff;
+}
+.cot2a{
+    text-decoration: none;
+    margin-left: 30%;
+}
+.subsribe{
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: #fff;
+    background-color: blue;
+    width: 60%;
+    text-align: center;
+}
+.footer3{
+    padding-top: 10%;
+    text-align: center;
+}
+.vu1{
+    padding-left: 10px;
+}
+.vu2{
+    padding-left: 10px;
+}
+
